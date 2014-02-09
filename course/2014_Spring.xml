@@ -1,0 +1,125 @@
+<?xml version="1.0"?>
+<course graceperiod="1 day 5 hours 59 minutes 59 seconds" display_name="Explore Engineering" number="Explore_Engineering" org="MITx">
+  <chapter name="Explore Engineering">
+    <sequential display_name="Explore Engineering">
+      <vertical url_name="vert_course__Explore_Engineering">
+        <html url_name="course__Explore_Engineering"/>
+      </vertical>
+    </sequential>
+  </chapter>
+  <chapter display_name="Models and Designs Glossary">
+    <sequential display_name="Note: the XML file for this glossary will need to...">
+      <vertical url_name="vert_section_2515__Models_and_Designs_Glossary">
+        <html url_name="section_2515__Models_and_Designs_Glossary"/>
+      </vertical>
+      <vertical url_name="vert_label_14383__Note_the_XML_file_for_this_glossary_will_need_to___">
+        <html url_name="label_14383__Note_the_XML_file_for_this_glossary_will_need_to___"/>
+      </vertical>
+    </sequential>
+  </chapter>
+  <chapter display_name="Directions:">
+    <sequential display_name="What is an engineer?">
+      <vertical url_name="vert_section_2516__Directions">
+        <html url_name="section_2516__Directions"/>
+      </vertical>
+      <vertical url_name="vert_label_14384__Directions">
+        <html url_name="label_14384__Directions"/>
+      </vertical>
+      <vertical url_name="vert_url_14385__What_is_an_engineer">
+        <html url_name="url_14385__What_is_an_engineer"/>
+      </vertical>
+    </sequential>
+  </chapter>
+  <chapter display_name="What is an Engineer? Show what you know!">
+    <sequential display_name="What is an Engineer? Show what you know!">
+      <vertical url_name="vert_section_2517__What_is_an_Engineer_Show_what_you_know">
+        <html url_name="section_2517__What_is_an_Engineer_Show_what_you_know"/>
+      </vertical>
+    </sequential>
+  </chapter>
+  <chapter display_name="Which Step is Most Challenging?">
+    <sequential display_name="Which Step is Most Challenging?">
+      <vertical url_name="vert_section_2518__Which_Step_is_Most_Challenging">
+        <html url_name="section_2518__Which_Step_is_Most_Challenging"/>
+      </vertical>
+    </sequential>
+  </chapter>
+  <chapter display_name="Click on the Engineering Wonders link below to le...">
+    <sequential display_name="How to add a KMZ (Google Earth) file to Forum post">
+      <vertical url_name="vert_section_2519__Click_on_the_Engineering_Wonders_link_below_to_le___">
+        <html url_name="section_2519__Click_on_the_Engineering_Wonders_link_below_to_le___"/>
+      </vertical>
+      <vertical url_name="vert_label_14390__Click_on_the_Engineering_Wonders_link_below_to_le___">
+        <html url_name="label_14390__Click_on_the_Engineering_Wonders_link_below_to_le___"/>
+      </vertical>
+      <vertical url_name="vert_resource_14391__Engineering_Wonders">
+        <html url_name="resource_14391__Engineering_Wonders"/>
+      </vertical>
+      <vertical url_name="vert_label_14392__Activity_Create_your_own_Google_Earth_tour__Wor___">
+        <html url_name="label_14392__Activity_Create_your_own_Google_Earth_tour__Wor___"/>
+      </vertical>
+      <vertical url_name="vert_url_14394__How_to_add_a_KMZ__Google_Earth__file_to_Forum_post">
+        <html url_name="url_14394__How_to_add_a_KMZ__Google_Earth__file_to_Forum_post"/>
+      </vertical>
+    </sequential>
+  </chapter>
+  <chapter display_name="Engineers of the Past">
+    <sequential display_name="How to print to PDF and upload">
+      <vertical url_name="vert_section_2520__Engineers_of_the_Past">
+        <html url_name="section_2520__Engineers_of_the_Past"/>
+      </vertical>
+      <vertical url_name="vert_label_14395__DirectionsFor_this_activity__youll_have_two_w___">
+        <html url_name="label_14395__DirectionsFor_this_activity__youll_have_two_w___"/>
+      </vertical>
+      <vertical url_name="vert_url_14396__The_Plains_Tribes">
+        <html url_name="url_14396__The_Plains_Tribes"/>
+      </vertical>
+      <vertical url_name="vert_label_14398__Label">
+        <html url_name="label_14398__Label"/>
+      </vertical>
+      <vertical url_name="vert_label_14399__Now_that_you_know_something_about_the_people_of____">
+        <html url_name="label_14399__Now_that_you_know_something_about_the_people_of____"/>
+      </vertical>
+      <vertical url_name="vert_url_14400__Ancestral_Engineering">
+        <html url_name="url_14400__Ancestral_Engineering"/>
+      </vertical>
+      <vertical url_name="vert_label_14401__Now_its_time_to_show_what_you_know_about_the_d___">
+        <html url_name="label_14401__Now_its_time_to_show_what_you_know_about_the_d___"/>
+      </vertical>
+      <vertical url_name="vert_url_14403__How_to_include_2_maps_on_1_file">
+        <html url_name="url_14403__How_to_include_2_maps_on_1_file"/>
+      </vertical>
+      <vertical url_name="vert_url_14404__How_to_print_to_PDF_and_upload">
+        <html url_name="url_14404__How_to_print_to_PDF_and_upload"/>
+      </vertical>
+    </sequential>
+  </chapter>
+  <chapter display_name="Final Asssessment">
+    <sequential display_name="Now that you have finished the activities in this...">
+      <vertical url_name="vert_section_2521__Final_Asssessment">
+        <html url_name="section_2521__Final_Asssessment"/>
+      </vertical>
+      <vertical url_name="vert_label_14405__Now_that_you_have_finished_the_activities_in_this___">
+        <html url_name="label_14405__Now_that_you_have_finished_the_activities_in_this___"/>
+      </vertical>
+    </sequential>
+  </chapter>
+  <chapter display_name="Teacher Resources">
+    <sequential display_name="Teacher Resources">
+      <vertical url_name="vert_section_2522__Teacher_Resources">
+        <html url_name="section_2522__Teacher_Resources"/>
+      </vertical>
+    </sequential>
+    <sequential display_name="EPs Landing Page">
+      <vertical url_name="vert_page_14407__Resource_List">
+        <html url_name="page_14407__Resource_List"/>
+      </vertical>
+      <vertical url_name="vert_url_14408__Standards_Alignment">
+        <html url_name="url_14408__Standards_Alignment"/>
+      </vertical>
+      <vertical url_name="vert_url_14409__EPs_Landing_Page">
+        <html url_name="url_14409__EPs_Landing_Page"/>
+      </vertical>
+    </sequential>
+  </chapter>
+</course>

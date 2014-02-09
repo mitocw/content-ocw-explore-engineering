@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GLOSSARY>
+  <INFO>
+    <NAME>Models and Designs Glossary</NAME>
+    <INTRO>&lt;p&gt;Work with a partner and add 3-5 words to our models and designs glossary.  We don't want any duplicate glossary entries, so be creative.  &lt;/p&gt;
+&lt;p&gt;Glossary words must be related to your learning in the unit.  Glossary entries may include people, places, things, or concepts.  Your entry should include the word, a definition of the word written in your own words, a sentence applying the glossary word that clearly shows your understanding of the word, and an image that will further help define the glossary entry word.  Please remember that spelling and punctuation rules apply and you should include your names on each glossary entry.&lt;/p&gt;</INTRO>
+    <ALLOWDUPLICATEDENTRIES>0</ALLOWDUPLICATEDENTRIES>
+    <DISPLAYFORMAT>dictionary</DISPLAYFORMAT>
+    <SHOWSPECIAL>1</SHOWSPECIAL>
+    <SHOWALPHABET>1</SHOWALPHABET>
+    <SHOWALL>1</SHOWALL>
+    <ALLOWCOMMENTS>0</ALLOWCOMMENTS>
+    <USEDYNALINK>1</USEDYNALINK>
+    <DEFAULTAPPROVAL>1</DEFAULTAPPROVAL>
+    <GLOBALGLOSSARY>0</GLOBALGLOSSARY>
+    <ENTBYPAGE>10</ENTBYPAGE>
+    <ENTRIES>
+      <ENTRY>
+        <CONCEPT>Black Box</CONCEPT>
+        <DEFINITION>&lt;p&gt;Black Box- a black box is a system that we don't completely understand how it is constructed or how it works just by observing with our senses.  &lt;/p&gt;
+&lt;p&gt;Scientists may construct models to explain a black box.&lt;/p&gt;
+&lt;p&gt;&lt;img height=&quot;419&quot; src=&quot;http://bbruner.org/bitn/bitn_fig/dna.gif&quot; width=&quot;290&quot; /&gt;Entry by Ms. Hajney&lt;/p&gt;</DEFINITION>
+        <FORMAT>1</FORMAT>
+        <USEDYNALINK>0</USEDYNALINK>
+        <CASESENSITIVE>0</CASESENSITIVE>
+        <FULLMATCH>0</FULLMATCH>
+        <TEACHERENTRY>1</TEACHERENTRY>
+      </ENTRY>
+    </ENTRIES>
+  </INFO>
+</GLOSSARY>
